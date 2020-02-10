@@ -7,10 +7,17 @@ This dataset is having data of customers who buys clothes online. This file has 
 ATTRIBUTES: 
 
 Email: Email of the customer 
+
 Address: Address of the customer 
-Avatar: Avatar chosen by the customer 
+
+Avatar: Avatar chosen by the customer
+
 Avg. Session Length: Average duration of the online session 
+
 Time on App: Time spent on App 
+
 Time on Website: Time spent on website 
+
 Length of Membership: Time period of membership 
+
 Yearly Amount Spent: Yearly amount spent by the customer
